@@ -1,3 +1,6 @@
+MOVED TO https://github.com/Blackcl0ver/Uncursus
+
+
 <center>
   <h1 align="center">Uncursus</h1>
   <h3 align="center">a installation script that allows Procursus as its bootstrap</h3>
